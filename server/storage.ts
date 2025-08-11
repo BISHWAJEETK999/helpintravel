@@ -74,7 +74,7 @@ export class MemStorage implements IStorage {
     this.users.set(adminId, {
       id: adminId,
       username: "admin",
-      password: "8709612003" // In production, this should be hashed
+      password: "Ttrave" // In production, this should be hashed
     });
 
     // Initialize default content
